@@ -1,0 +1,31 @@
+<svg width="120" height="120" version="1.1" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="a">
+   <path d="m0 38h38v-38h-38v38z"/>
+  </clipPath>
+ </defs>
+ <rect width="120" height="120" fill="#e6e6e6" fill-rule="evenodd" stop-color="#000000" style="font-variation-settings:normal"/>
+ <g transform="matrix(1.9309 0 0 -1.9309 23.312 96.688)" clip-path="url(#a)">
+  <g transform="translate(36,11)">
+   <path d="m0 0c0-2.209-1.791-4-4-4h-26c-2.209 0-4 1.791-4 4v19.687c0 2.209 5.791 6.313 8 6.313h20.625c3.094 0 5.375-2.313 5.375-5.375z" fill="#c1694f"/>
+  </g>
+  <g transform="translate(34,7)">
+   <path d="m0 0c0-2.209-1.791-4-4-4h-22c-2.209 0-4 1.791-4 4v24c0 4.119-0.021 4 5 4h21c2.209 0 4-1.791 4-4z" fill="#ccd6dd"/>
+  </g>
+  <g transform="translate(32,6)">
+   <path d="m0 0c0-1.657-1.343-3-3-3h-24c-1.657 0-3 1.343-3 3v24c0 1.657 1.343 3 3 3h24c1.657 0 3-1.343 3-3z" fill="#e1e8ed"/>
+  </g>
+  <g transform="translate(32,5)">
+   <path d="m0 0c0-2.209-1.791-4-4-4h-21c-2.209 0-4 1.791-4 4v22c0 2.209 1.791 4 4 4h21c2.209 0 4-1.791 4-4z" fill="#c1694f"/>
+  </g>
+  <g transform="translate(30,5)">
+   <path d="m0 0c0-2.209-1.791-4-4-4h-19c-2.209 0-4 1.791-4 4v20c0 2.209 1.791 4 4 4h19.335c2.209 0 3.665-1.456 3.665-3.665z" fill="#d99e82"/>
+  </g>
+  <g transform="translate(7,31)">
+   <path d="m0 0c-1.687 0-1.731 1.922-1 2.75 0.832 0.941 2.125 1.25 4.438 1.25h1.562v2h-2.719c-3.968 0-7.281-2.5-7.281-5.375v-26.625c0-2.209 1.791-4 4-4h2v30z" fill="#c1694f"/>
+  </g>
+  <g transform="translate(26,19)">
+   <path d="m0 0c0-1.104-0.896-2-2-2h-10c-1.104 0-2 0.896-2 2v2c0 1.104 0.896 2 2 2h10c1.104 0 2-0.896 2-2z" fill="#e1e8ed"/>
+  </g>
+ </g>
+</svg>
