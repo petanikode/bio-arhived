@@ -1,6 +1,6 @@
 body {
   background-color: teal;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: white;
 }
 
@@ -39,11 +39,15 @@ body {
   padding: 0 1em;
 }
 
-.link-item .title  a {
+.link-item .title a {
   text-decoration: none;
   color: royalblue;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
-.link-item .title  a:active {
+.link-item .title a:active {
   color: dodgerblue;
   outline: 1px dashed dodgerblue;
 }
