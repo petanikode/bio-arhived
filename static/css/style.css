@@ -47,10 +47,15 @@ body {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-.link-item .title a:active {
+
+.link-item .title a:hover {
   color: dodgerblue;
+}
+
+.link-item .title a:active {
   outline: 1px dashed dodgerblue;
 }
+
 
 .link-item .thumbnail {
   width: 100px;
